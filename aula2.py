@@ -17,11 +17,11 @@
 
 # print("Voce vai precisar de: ", litros)
 
-distancia = float(input("Digite a distancia total percorrida em km: "))
+# distancia = float(input("Digite a distancia total percorrida em km: "))
 
-combustivel = float(input("Digite o total de combustivel gasto em litros: "))
+# combustivel = float(input("Digite o total de combustivel gasto em litros: "))
 
-consumo = distancia / combustivel 
+# consumo = distancia / combustivel 
 
 
-print("O consumo medio do veiculo em litros é de: ", consumo)
+# print("O consumo medio do veiculo em litros é de: ", consumo)

@@ -78,4 +78,6 @@ print("x1 =", x1, "x2 =", x2)
 # criar repositorio e colar os comandos
 
 # git add
-#git commit -m "mensagem"
+#git commit -m "mensagem" 
+# git push
+
